@@ -11,3 +11,7 @@ O objetivo é registrar minha evolução técnica e compartilhar soluções que 
 - 📚 Anotações de estudo (para mim e para quem mais precisar).
 
 Sinta-se à vontade para acompanhar meu progresso ou usar este material como referência!
+
+# DIA 1
+
+Depois de discutir por um tempo comigo mesmo e pedir dicas sobre como começar, me recomendaram um criar um jogo simples. Creio que isso deve facilitar no entendimento e aprendizado, como na escola com lições.
